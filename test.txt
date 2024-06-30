@@ -1,1 +1,3 @@
-ECHO is on.
+eCHO is on.
+adding a new line
+
